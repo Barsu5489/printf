@@ -3,7 +3,7 @@
 /**
  *_printf - prints to the output
  *
- *format: pointer
+ *@format: pointer
  *
  *Return: input len
  *
